@@ -2,7 +2,7 @@
 my personal AutoLayout API
 
 Sample code:
-```
+```swift
 // auto layout
 let pad: CGFloat = 20
 subviews.usesAutolayout()
